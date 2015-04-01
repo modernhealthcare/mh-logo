@@ -4,6 +4,8 @@
 
 MH logo assets
 
+## [Table of Contents](http://modernhealthcare.github.io)
+
 ## [Docs](http://modernhealthcare.github.io/mh-docs/dist)
 
 ## [Javascript](http://modernhealthcare.github.io/mh-javascript/dist)
