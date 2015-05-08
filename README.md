@@ -10,4 +10,3 @@ MH logo assets
 - [Patterns](http://modernhealthcare.github.io/mh-patterns/dist)
 - [Logos](https://github.com/modernhealthcare/mh-logo/tree/master)
 - [Newsletters](https://github.com/modernhealthcare/mh-newsletter)
-- [Source files](https://github.com/modernhealthcare/mh-source/tree/master)
